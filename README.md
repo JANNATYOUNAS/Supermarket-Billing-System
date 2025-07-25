@@ -23,12 +23,7 @@ This is a simple C++ project simulating a **Supermarket Billing System** using O
 - Language: C++
 - Platform: Windows (uses `<windows.h>` for color)
 
-## 🧾 How to Run
 
-1. Make sure you're on Windows (due to `SetConsoleTextAttribute`).
-2. Compile the file:
-   ```bash
-   g++ SMBS_OOP.cpp -o SMBS
 
 
 
